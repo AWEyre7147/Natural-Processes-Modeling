@@ -6,6 +6,8 @@ This project is an effort to generate a repository of agent-based models (ABMs) 
 
 # Introduction
 
+The current dilemma with the global environment and sustainability seems to derive from the many components of ecosystems needing to be understood and their interconnectedness that poses significant limitations for modern reductionist thinking.  The kind of understanding needed to make well informed decisions with minimal unintended consequences for an ecosystem 
+
 -- change this --  3 paragraphs, one including philosophy, one about brainstorming/defining natural processes, one about the project as a whole (repository)
 
 The project will begin with brainstorming which natural phenomena are going to be modeled and investigation into which ABMs already exist.  NetLogo already contains a plethora of informative ABMs that efficiently demonstrate various phenomena, such as climate change, erosion, prey/predator patterns, wild fires, and more.  Many additional models will be generated, particularly around natural resources to eventually move to a point where one can demonstrate how human intervention over time can lead to resource deficits and unintended environmental effects.  The grand goal of this project is to develop a repository of ABMs that cover a plethora of natural processes.   
@@ -34,8 +36,8 @@ https://www.complexityexplorer.org/courses/96-introduction-to-agent-based-modeli
 
 The repository will be formatted with each branch from the main being a particular natural process to be modeled.  Two readme documents will be made available within each branch: the first will document any brainstorming/information that has been compiled (not yet strucutred), and the second will be the formatted contents of the NetLogo 'Info' tab for the particular model.  Codes for the models will be made publically available (not yet sure how to make available the contents of the 'interface' tab).
 
-Experimentation will also be performed and individual experiments will be placed within their own branches within the model's contents.  These will contain a readme with a brief outline of experiment, particularly if there's any phenomenon that's being searched for, and the settings in NetLogo's 'BehaviorSpace' application
+Experimentation will also be performed and individual experiments will be placed within their own branches within the model's contents.  These will contain a readme with a brief outline of experiment, particularly if there's any phenomenon that's being searched for, and the settings in NetLogo's 'BehaviorSpace' application.  R will be preferred to do analyses and these scripts will be uploaded in addition to results.
 
 # Want to help?
 
-Or just want to talk, please email me at aweyre90@gmail.com. 
+Or just want to talk, please email me at aweyre90@gmail.com.  I'm extremely enthusiatic about this project, however I have a lot more to learn and practice.  I have plenty of work from small to large, and on any part of the project from brainstorming to experimenting with the models.
