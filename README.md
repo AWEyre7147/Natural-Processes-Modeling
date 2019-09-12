@@ -6,11 +6,16 @@ This project is an effort to generate a repository of agent-based models (ABMs) 
 
 # Introduction
 
-The current dilemma with the global environment and sustainability seems to derive from the many components of ecosystems needing to be understood and their interconnectedness that poses significant limitations for modern reductionist thinking.  The kind of understanding needed to make well informed decisions with minimal unintended consequences for an ecosystem 
+The current dilemma with the global environment and sustainability seems to derive from the many components of ecosystems needing to be understood and their interconnectedness which poses significant limitations for modern reductionist thinking.  The kind of understanding needed to make well informed decisions in an ecosystem with minimal unintended consequences resembles that of a naturalist rather than a scientist.  These individuals spend several years observing and interacting with ecosystems to identify the important factors that strongly influence the dynamics of the environment, whether that be rainfall, vegetation types, wildfires, biodiversity, and more.  The type of understanding that is most vital and difficult to communicate/demonstrate usually involves the relationship of one or more of these factors that sustain the ecosystem.  The capacity to generate this understanding is very limited in the context of science or reductionist thinking in general, as they seek to understand phenomena by investigating its parts in isolation.  
 
--- change this --  3 paragraphs, one including philosophy, one about brainstorming/defining natural processes, one about the project as a whole (repository)
+In an effort 
+...
+...
 
-The project will begin with brainstorming which natural phenomena are going to be modeled and investigation into which ABMs already exist.  NetLogo already contains a plethora of informative ABMs that efficiently demonstrate various phenomena, such as climate change, erosion, prey/predator patterns, wild fires, and more.  Many additional models will be generated, particularly around natural resources to eventually move to a point where one can demonstrate how human intervention over time can lead to resource deficits and unintended environmental effects.  The grand goal of this project is to develop a repository of ABMs that cover a plethora of natural processes.   
+
+The project will begin with brainstorming which natural phenomena are going to be modeled and investigation into which ABMs already exist.  NetLogo already contains a plethora of informative ABMs that efficiently demonstrate various phenomena, such as climate change, erosion, prey/predator patterns, wild fires, and more.  Many additional models will be generated, particularly around natural resources to eventually move to a point where one can demonstrate how human intervention over time can lead to resource deficits and unintended environmental effects.  The grand goal of this project is to develop a repository of ABMs that cover a plethora of natural processes. 
+
+-- change this --  3 paragraphs, one including philosophy, one about brainstorming/defining natural processes, one about the project as a whole (repository)  
 
 # Agent-based Modeling
 
