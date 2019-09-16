@@ -34,7 +34,7 @@ https://www.complexityexplorer.org/courses/96-introduction-to-agent-based-modeli
 
 # The Repository
 
-The repository will be formatted with each folder containing a particular model of a natural process.  Two readme documents will be made available within each branch: the first will document any brainstorming/information that has been compiled (not yet strucutred), and the second will be the formatted contents of the NetLogo 'Info' tab for the particular model.  Codes for the models will be made publically available (not yet sure how to make available the contents of the 'interface' tab).
+The repository will be formatted with each folder containing a particular model of a natural process.  Two readme documents will be made available within each branch: the first will document any brainstorming/information that has been compiled (not yet strucutred), and the second will be the formatted contents of the NetLogo 'Info' tab for the particular model.  Codes for the models will be made publically available.
 
 Experimentation will also be performed and individual experiments will be placed within their own folder within the model's contents.  These will contain a readme with a brief outline of experiment, particularly if there's any phenomenon that's being searched for, and the settings in NetLogo's 'BehaviorSpace' application.  R will be preferred to do analyses and these scripts will be uploaded in addition to results.
 
