@@ -1,5 +1,8 @@
 # Natural Processes Modeling Project
 
+# Edit:
+This project is moving to Python where I can better handle NP problems through more creative measures and CUDA incorporation.  It will also be on delay until I move to my site to automatically gather data.  Unless there is interest in this project, in which case please message me!
+
 # Abstract
 
 This project is an effort to generate a repository of agent-based models (ABMs) covering the dynamics of various natural processes.  Exploration of these models by an individual can facilitate an intuitive understanding of how certain resources change over time and how these changes can result in various natural phenomena, including unintended consequences by human intervention.
